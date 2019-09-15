@@ -1,6 +1,6 @@
 # Instructions
 
-(Google for terms that you can't understand)
+(Google for terms that you can't understand :) )
 
 1. Import the dataset into a matrix using **numpy**. The dataset is space delimited with first column as labels and rest 10 as features.
 
